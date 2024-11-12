@@ -1,0 +1,20 @@
+{
+  "name": "react-express-app",
+  "version": "1.0.0",
+  "description": "react + express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
